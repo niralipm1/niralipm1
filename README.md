@@ -30,12 +30,7 @@ I am an independent software consultant and mobile architect with **6+ years of 
 ### 📊 GitHub & Engineering Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niralipm1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=090d16" alt="Nirali's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niralipm1&theme=tokyonight&hide_border=true&background=090d16" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niralipm1&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16" alt="Top Languages" width="55%" />
 </div>
 
 ---
